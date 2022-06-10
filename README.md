@@ -1,4 +1,4 @@
-# Map Clinical Trial Data (clinicaltrials.gov) to DrugBank Identifiers
+# Map Clinical Trial Interventions (clinicaltrials.gov) to DrugBank Identifiers
 
 Run map_clinical_trials_to_drugbank.R to map drug found in a set of clinical trials with DrugBank ID (and the DrugBank target information). 
 
