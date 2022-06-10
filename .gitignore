@@ -37,3 +37,5 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+drugbank_all_full_database_5.1.8.xml
+rhabdomyosarcoma.sql

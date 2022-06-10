@@ -1,0 +1,382 @@
+"target_symbol","target_id","drug_name","drug_id","nct_id","phase","overall_status","original_trial_drug_entry","combination_detected"
+"A2M","BE0000910","cisplatin","DB00515","NCT04213794","Early Phase 1","Recruiting","cisplatin",FALSE
+"ABCC1","BE0000785","romidepsin","DB06176","NCT00112463","Phase 2","Completed","romidepsin",FALSE
+"ABL1","BE0000014","dasatinib","DB01254","NCT00464620","Phase 2","Completed","dasatinib",FALSE
+"ABL1","BE0000014","regorafenib","DB08896","NCT02048371","Phase 2","Recruiting","regorafenib",FALSE
+"ABL1","BE0000014","dasatinib","DB01254","NCT03041701","Phase 1/Phase 2","Recruiting","dasatinib",FALSE
+"ABL2","BE0000435","dasatinib","DB01254","NCT00464620","Phase 2","Completed","dasatinib",FALSE
+"ABL2","BE0000435","dasatinib","DB01254","NCT03041701","Phase 1/Phase 2","Recruiting","dasatinib",FALSE
+"AKR1C2","BE0000622","ursodiol","DB01586","NCT01505569","N/A","Recruiting","ursodiol",FALSE
+"AKT1","BE0000428","genistein","DB01645","NCT02624388","Phase 2","Unknown status","genistein",FALSE
+"ALK","BE0000359","crizotinib","DB08865","NCT01524926","Phase 2","Active not recruiting","crizotinib (pf-02341066)",FALSE
+"ANXA1","BE0000422","methylprednisolone","DB00959","NCT00309907","Phase 2","Completed","methylprednisolone",FALSE
+"ATIC","BE0001240","pemetrexed","DB00642","NCT00520936","Phase 2","Completed","pemetrexed",FALSE
+"ATOX1","BE0002833","cisplatin","DB00515","NCT04213794","Early Phase 1","Recruiting","cisplatin",FALSE
+"AURKA","BE0000991","alisertib","DB05220","NCT01154816","Phase 2","Completed","alisertib",FALSE
+"BCL2","BE0000246","paclitaxel","DB01229","NCT01505569","N/A","Recruiting","paclitaxel",FALSE
+"BCL2","BE0000246","eribulin","DB08871","NCT03245450","Phase 1/Phase 2","Recruiting","eribulin",FALSE
+"BCL2","BE0000246","eribulin","DB08871","NCT03441360","Phase 2","Recruiting","eribulin",FALSE
+"BHMT","BE0000845","methionine","DB00134","NCT00840047","Phase 2","Recruiting","methionine",FALSE
+"BHMT2","BE0002249","methionine","DB00134","NCT00840047","Phase 2","Recruiting","methionine",FALSE
+"BRAF","BE0000634","sorafenib","DB00398","NCT01518413","Phase 1","Completed","sorafenib",FALSE
+"BRAF","BE0000634","sorafenib","DB00398","NCT01871766","Phase 2","Active not recruiting","sorafenib",FALSE
+"BRAF","BE0000634","regorafenib","DB08896","NCT02048371","Phase 2","Recruiting","regorafenib",FALSE
+"BRAF","BE0000634","vemurafenib","DB08881","NCT03155620","Phase 2","Recruiting","vemurafenib",FALSE
+"BRAF","BE0000634","vemurafenib","DB08881","NCT03220035","Phase 2","Recruiting","vemurafenib",FALSE
+"BTK","BE0001284","dasatinib","DB01254","NCT00464620","Phase 2","Completed","dasatinib",FALSE
+"BTK","BE0001284","dasatinib","DB01254","NCT03041701","Phase 1/Phase 2","Recruiting","dasatinib",FALSE
+"C1QA","BE0002094","bevacizumab","DB00112","NCT01871766","Phase 2","Active not recruiting","bevacizumab",FALSE
+"C1QB","BE0002095","bevacizumab","DB00112","NCT01871766","Phase 2","Active not recruiting","bevacizumab",FALSE
+"C1QC","BE0002096","bevacizumab","DB00112","NCT01871766","Phase 2","Active not recruiting","bevacizumab",FALSE
+"CAMLG","BE0000379","cyclosporine","DB00091","NCT04530487","Phase 2","Recruiting","cyclosporine",FALSE
+"CD52","BE0000083","alemtuzumab","DB00087","NCT01625351","Phase 1","Completed","alemtuzumab",FALSE
+"CDC2","BE0001082","alvocidib","DB03496","NCT00012181","Phase 1","Completed","alvocidib",FALSE
+"CDK2deltaT","BE0001072","alvocidib","DB03496","NCT00012181","Phase 1","Completed","alvocidib",FALSE
+"CDK4","BE0002216","alvocidib","DB03496","NCT00012181","Phase 1","Completed","alvocidib",FALSE
+"CDK4","BE0002216","abemaciclib","DB12001","NCT02644460","Phase 1","Recruiting","abemaciclib",FALSE
+"CDK4","BE0002216","ribociclib","DB11730","NCT03009201","Phase 1","Active not recruiting","ribociclib",FALSE
+"CDK4","BE0002216","palbociclib","DB09073","NCT03155620","Phase 2","Recruiting","palbociclib",FALSE
+"CDK4","BE0002216","palbociclib","DB09073","NCT03526250","Phase 2","Recruiting","palbociclib",FALSE
+"CDK4","BE0002216","palbociclib","DB09073","NCT03709680","Phase 1","Recruiting","palbociclib",FALSE
+"CDK5","BE0000890","alvocidib","DB03496","NCT00012181","Phase 1","Completed","alvocidib",FALSE
+"CDK6","BE0002212","alvocidib","DB03496","NCT00012181","Phase 1","Completed","alvocidib",FALSE
+"CDK6","BE0002212","abemaciclib","DB12001","NCT02644460","Phase 1","Recruiting","abemaciclib",FALSE
+"CDK6","BE0002212","ribociclib","DB11730","NCT03009201","Phase 1","Active not recruiting","ribociclib",FALSE
+"CDK6","BE0002212","palbociclib","DB09073","NCT03155620","Phase 2","Recruiting","palbociclib",FALSE
+"CDK6","BE0002212","palbociclib","DB09073","NCT03526250","Phase 2","Recruiting","palbociclib",FALSE
+"CDK6","BE0002212","palbociclib","DB09073","NCT03709680","Phase 1","Recruiting","palbociclib",FALSE
+"CDK7","BE0001913","alvocidib","DB03496","NCT00012181","Phase 1","Completed","alvocidib",FALSE
+"CDK8","BE0002224","alvocidib","DB03496","NCT00012181","Phase 1","Completed","alvocidib",FALSE
+"CDK9","BE0002207","alvocidib","DB03496","NCT00012181","Phase 1","Completed","alvocidib",FALSE
+"CMPK","BE0000637","gemcitabine","DB00441","NCT01532687","Phase 2","Completed","gemcitabine",FALSE
+"CMPK","BE0000637","gemcitabine","DB00441","NCT02945800","Phase 2","Recruiting","gemcitabine",FALSE
+"CSF1R","BE0000853","erdafitinib","DB12147","NCT03155620","Phase 2","Recruiting","erdafitinib",FALSE
+"CSF1R","BE0000853","erdafitinib","DB12147","NCT03210714","Phase 2","Recruiting","erdafitinib",FALSE
+"CSF3R","BE0000793","g-csf","DB00099","NCT00001335","Phase 2","Completed","g-csf",FALSE
+"CSK","BE0001356","dasatinib","DB01254","NCT00464620","Phase 2","Completed","dasatinib",FALSE
+"CSK","BE0001356","dasatinib","DB01254","NCT03041701","Phase 1/Phase 2","Recruiting","dasatinib",FALSE
+"CYP1B1","BE0001111","genistein","DB01645","NCT02624388","Phase 2","Unknown status","genistein",FALSE
+"DCK","BE0002804","fludarabine","DB01073","NCT01625351","Phase 1","Completed","fludarabine",FALSE
+"DCK","BE0002804","fludarabine","DB01073","NCT03635632","Phase 1","Recruiting","fludarabine",FALSE
+"DCK","BE0002804","fludarabine","DB01073","NCT04530487","Phase 2","Recruiting","fludarabine",FALSE
+"DHFR","BE0000330","pemetrexed","DB00642","NCT00520936","Phase 2","Completed","pemetrexed",FALSE
+"EGFR","BE0000767","alvocidib","DB03496","NCT00012181","Phase 1","Completed","alvocidib",FALSE
+"EGFR","BE0000767","erlotinib","DB00530","NCT00077454","Phase 1","Completed","erlotinib",FALSE
+"EGFR","BE0000767","afatinib","DB08916","NCT02372006","Phase 1/Phase 2","Completed","afatinib",FALSE
+"ELA2","BE0000394","g-csf","DB00099","NCT00001335","Phase 2","Completed","g-csf",FALSE
+"EPHA2","BE0000841","dasatinib","DB01254","NCT00464620","Phase 2","Completed","dasatinib",FALSE
+"EPHA2","BE0000841","regorafenib","DB08896","NCT02048371","Phase 2","Recruiting","regorafenib",FALSE
+"EPHA2","BE0000841","dasatinib","DB01254","NCT03041701","Phase 1/Phase 2","Recruiting","dasatinib",FALSE
+"EPHB4","BE0002453","dasatinib","DB01254","NCT00464620","Phase 2","Completed","dasatinib",FALSE
+"EPHB4","BE0002453","dasatinib","DB01254","NCT03041701","Phase 1/Phase 2","Recruiting","dasatinib",FALSE
+"ERBB2","BE0000511","afatinib","DB08916","NCT02372006","Phase 1/Phase 2","Completed","afatinib",FALSE
+"ESR1","BE0000123","genistein","DB01645","NCT02624388","Phase 2","Unknown status","genistein",FALSE
+"ESR2","BE0000792","genistein","DB01645","NCT02624388","Phase 2","Unknown status","genistein",FALSE
+"FCGR1A","BE0000710","alemtuzumab","DB00087","NCT01625351","Phase 1","Completed","alemtuzumab",FALSE
+"FCGR1A","BE0000710","bevacizumab","DB00112","NCT01871766","Phase 2","Active not recruiting","bevacizumab",FALSE
+"FCGR2A","BE0002098","alemtuzumab","DB00087","NCT01625351","Phase 1","Completed","alemtuzumab",FALSE
+"FCGR2A","BE0002098","bevacizumab","DB00112","NCT01871766","Phase 2","Active not recruiting","bevacizumab",FALSE
+"FCGR2B","BE0002099","alemtuzumab","DB00087","NCT01625351","Phase 1","Completed","alemtuzumab",FALSE
+"FCGR2B","BE0002099","bevacizumab","DB00112","NCT01871766","Phase 2","Active not recruiting","bevacizumab",FALSE
+"FCGR2C","BE0002100","alemtuzumab","DB00087","NCT01625351","Phase 1","Completed","alemtuzumab",FALSE
+"FCGR2C","BE0002100","bevacizumab","DB00112","NCT01871766","Phase 2","Active not recruiting","bevacizumab",FALSE
+"FCGR3A","BE0002097","alemtuzumab","DB00087","NCT01625351","Phase 1","Completed","alemtuzumab",FALSE
+"FCGR3A","BE0002097","bevacizumab","DB00112","NCT01871766","Phase 2","Active not recruiting","bevacizumab",FALSE
+"FCGR3B","BE0000901","alemtuzumab","DB00087","NCT01625351","Phase 1","Completed","alemtuzumab",FALSE
+"FDPS","BE0000776","zoledronate","DB00399","NCT02508038","Phase 1","Recruiting","zoledronate",FALSE
+"FGF1","BE0000689","pazopanib","DB06589","NCT01532687","Phase 2","Completed","pazopanib",FALSE
+"FGF2","BE0001015","sirolimus","DB00877","NCT01331135","Phase 1","Completed","sirolimus",FALSE
+"FGF2","BE0001015","sirolimus","DB00877","NCT01625351","Phase 1","Completed","sirolimus",FALSE
+"FGFR1","BE0002131","sorafenib","DB00398","NCT01518413","Phase 1","Completed","sorafenib",FALSE
+"FGFR1","BE0002131","sorafenib","DB00398","NCT01871766","Phase 2","Active not recruiting","sorafenib",FALSE
+"FGFR1","BE0002131","regorafenib","DB08896","NCT02048371","Phase 2","Recruiting","regorafenib",FALSE
+"FGFR1","BE0002131","erdafitinib","DB12147","NCT03155620","Phase 2","Recruiting","erdafitinib",FALSE
+"FGFR1","BE0002131","selpercatinib","DB15685","NCT03155620","Phase 2","Recruiting","selpercatinib",FALSE
+"FGFR1","BE0002131","erdafitinib","DB12147","NCT03210714","Phase 2","Recruiting","erdafitinib",FALSE
+"FGFR1","BE0002131","selpercatinib","DB15685","NCT04320888","Phase 2","Recruiting","selpercatinib",FALSE
+"FGFR2","BE0000748","thalidomide","DB01041","NCT01661400","Phase 1","Recruiting","thalidomide",FALSE
+"FGFR2","BE0000748","regorafenib","DB08896","NCT02048371","Phase 2","Recruiting","regorafenib",FALSE
+"FGFR2","BE0000748","erdafitinib","DB12147","NCT03155620","Phase 2","Recruiting","erdafitinib",FALSE
+"FGFR2","BE0000748","selpercatinib","DB15685","NCT03155620","Phase 2","Recruiting","selpercatinib",FALSE
+"FGFR2","BE0000748","erdafitinib","DB12147","NCT03210714","Phase 2","Recruiting","erdafitinib",FALSE
+"FGFR2","BE0000748","selpercatinib","DB15685","NCT04320888","Phase 2","Recruiting","selpercatinib",FALSE
+"FGFR3","BE0002133","pazopanib","DB06589","NCT01532687","Phase 2","Completed","pazopanib",FALSE
+"FGFR3","BE0002133","erdafitinib","DB12147","NCT03155620","Phase 2","Recruiting","erdafitinib",FALSE
+"FGFR3","BE0002133","selpercatinib","DB15685","NCT03155620","Phase 2","Recruiting","selpercatinib",FALSE
+"FGFR3","BE0002133","erdafitinib","DB12147","NCT03210714","Phase 2","Recruiting","erdafitinib",FALSE
+"FGFR3","BE0002133","selpercatinib","DB15685","NCT04320888","Phase 2","Recruiting","selpercatinib",FALSE
+"FGFR4","BE0001203","erdafitinib","DB12147","NCT03155620","Phase 2","Recruiting","erdafitinib",FALSE
+"FGFR4","BE0001203","erdafitinib","DB12147","NCT03210714","Phase 2","Recruiting","erdafitinib",FALSE
+"FKBP1A","BE0000695","sirolimus","DB00877","NCT01331135","Phase 1","Completed","sirolimus",FALSE
+"FKBP1A","BE0000695","sirolimus","DB00877","NCT01625351","Phase 1","Completed","sirolimus",FALSE
+"FKBP1A","BE0000695","tacrolimus","DB00864","NCT04530487","Phase 2","Recruiting","tacrolimus",FALSE
+"FLT1","BE0000029","sorafenib","DB00398","NCT01518413","Phase 1","Completed","sorafenib",FALSE
+"FLT1","BE0000029","pazopanib","DB06589","NCT01532687","Phase 2","Completed","pazopanib",FALSE
+"FLT1","BE0000029","sorafenib","DB00398","NCT01871766","Phase 2","Active not recruiting","sorafenib",FALSE
+"FLT1","BE0000029","regorafenib","DB08896","NCT02048371","Phase 2","Recruiting","regorafenib",FALSE
+"FLT1","BE0000029","selpercatinib","DB15685","NCT03155620","Phase 2","Recruiting","selpercatinib",FALSE
+"FLT1","BE0000029","selpercatinib","DB15685","NCT04320888","Phase 2","Recruiting","selpercatinib",FALSE
+"FLT3","BE0000147","sorafenib","DB00398","NCT01518413","Phase 1","Completed","sorafenib",FALSE
+"FLT3","BE0000147","sorafenib","DB00398","NCT01871766","Phase 2","Active not recruiting","sorafenib",FALSE
+"FLT4","BE0000023","sorafenib","DB00398","NCT01518413","Phase 1","Completed","sorafenib",FALSE
+"FLT4","BE0000023","pazopanib","DB06589","NCT01532687","Phase 2","Completed","pazopanib",FALSE
+"FLT4","BE0000023","sorafenib","DB00398","NCT01871766","Phase 2","Active not recruiting","sorafenib",FALSE
+"FLT4","BE0000023","regorafenib","DB08896","NCT02048371","Phase 2","Recruiting","regorafenib",FALSE
+"FLT4","BE0000023","selpercatinib","DB15685","NCT03155620","Phase 2","Recruiting","selpercatinib",FALSE
+"FLT4","BE0000023","selpercatinib","DB15685","NCT04320888","Phase 2","Recruiting","selpercatinib",FALSE
+"FNTB","BE0002372","tipifarnib","DB04960","NCT03155620","Phase 2","Recruiting","tipifarnib",FALSE
+"FNTB","BE0002372","tipifarnib","DB04960","NCT04284774","Phase 2","Recruiting","tipifarnib",FALSE
+"FRAP1","BE0002386","everolimus","DB01590","NCT00187174","Phase 1","Completed","everolimus",FALSE
+"FRAP1","BE0002386","temsirolimus","DB06287","NCT01222715","Phase 2","Completed","temsirolimus",FALSE
+"FRAP1","BE0002386","sirolimus","DB00877","NCT01331135","Phase 1","Completed","sirolimus",FALSE
+"FRAP1","BE0002386","temsirolimus","DB06287","NCT01614795","Phase 2","Completed","temsirolimus",FALSE
+"FRAP1","BE0002386","sirolimus","DB00877","NCT01625351","Phase 1","Completed","sirolimus",FALSE
+"FRAP1","BE0002386","temsirolimus","DB06287","NCT02567435","Phase 3","Recruiting","temsirolimus",FALSE
+"FYN","BE0000839","dasatinib","DB01254","NCT00464620","Phase 2","Completed","dasatinib",FALSE
+"FYN","BE0000839","dasatinib","DB01254","NCT03041701","Phase 1/Phase 2","Recruiting","dasatinib",FALSE
+"GART","BE0000882","pemetrexed","DB00642","NCT00520936","Phase 2","Completed","pemetrexed",FALSE
+"GPER","BE0003446","genistein","DB01645","NCT02624388","Phase 2","Unknown status","genistein",FALSE
+"GRIA3","BE0000831","lithium carbonate","DB14509","NCT00408681","N/A","Completed","lithium carbonate",FALSE
+"GSK3B","BE0001065","lithium carbonate","DB14509","NCT00408681","N/A","Completed","lithium carbonate",FALSE
+"HDAC1","BE0002365","romidepsin","DB06176","NCT00112463","Phase 2","Completed","romidepsin",FALSE
+"HDAC1","BE0002365","mocetinostat","DB11830","NCT04299113","Phase 1","Recruiting","mocetinostat",FALSE
+"HDAC1","BE0002365","vorinostat","DB02546","NCT04308330","Phase 1","Recruiting","vorinostat",FALSE
+"HDAC2","BE0002366","romidepsin","DB06176","NCT00112463","Phase 2","Completed","romidepsin",FALSE
+"HDAC2","BE0002366","simvastatin","DB00641","NCT02390843","Phase 1","Completed","simvastatin",FALSE
+"HDAC2","BE0002366","mocetinostat","DB11830","NCT04299113","Phase 1","Recruiting","mocetinostat",FALSE
+"HDAC2","BE0002366","vorinostat","DB02546","NCT04308330","Phase 1","Recruiting","vorinostat",FALSE
+"HDAC3","BE0002367","mocetinostat","DB11830","NCT04299113","Phase 1","Recruiting","mocetinostat",FALSE
+"HDAC3","BE0002367","vorinostat","DB02546","NCT04308330","Phase 1","Recruiting","vorinostat",FALSE
+"HDAC4","BE0003523","romidepsin","DB06176","NCT00112463","Phase 2","Completed","romidepsin",FALSE
+"HDAC6","BE0002368","romidepsin","DB06176","NCT00112463","Phase 2","Completed","romidepsin",FALSE
+"HDAC6","BE0002368","vorinostat","DB02546","NCT04308330","Phase 1","Recruiting","vorinostat",FALSE
+"HDAC8","BE0001608","vorinostat","DB02546","NCT04308330","Phase 1","Recruiting","vorinostat",FALSE
+"HMGCR","BE0000574","simvastatin","DB00641","NCT02390843","Phase 1","Completed","simvastatin",FALSE
+"HSP90AA1","BE0001120","tanespimycin","DB05134","NCT00093821","Phase 1","Completed","tanespimycin",FALSE
+"HSP90AB1","BE0001898","tanespimycin","DB05134","NCT00093821","Phase 1","Completed","tanespimycin",FALSE
+"IDH1","BE0001251","ivosidenib","DB14568","NCT04195555","Phase 2","Recruiting","ivosidenib",FALSE
+"IMPA1","BE0001152","lithium carbonate","DB14509","NCT00408681","N/A","Completed","lithium carbonate",FALSE
+"IMPA2","BE0000983","lithium carbonate","DB14509","NCT00408681","N/A","Completed","lithium carbonate",FALSE
+"IMPDH1","BE0000761","mycophenolate mofetil","DB00688","NCT04530487","Phase 2","Recruiting","mycophenolate mofetil",FALSE
+"IMPDH2","BE0000722","mycophenolate mofetil","DB00688","NCT04530487","Phase 2","Recruiting","mycophenolate mofetil",FALSE
+"ITGAL","BE0000516","simvastatin","DB00641","NCT02390843","Phase 1","Completed","simvastatin",FALSE
+"ITK","BE0001341","pazopanib","DB06589","NCT01532687","Phase 2","Completed","pazopanib",FALSE
+"KDR","BE0000369","sorafenib","DB00398","NCT01518413","Phase 1","Completed","sorafenib",FALSE
+"KDR","BE0000369","pazopanib","DB06589","NCT01532687","Phase 2","Completed","pazopanib",FALSE
+"KDR","BE0000369","sorafenib","DB00398","NCT01871766","Phase 2","Active not recruiting","sorafenib",FALSE
+"KDR","BE0000369","regorafenib","DB08896","NCT02048371","Phase 2","Recruiting","regorafenib",FALSE
+"KDR","BE0000369","cabozantinib","DB08875","NCT02867592","Phase 2","Active not recruiting","cabozantinib",FALSE
+"KDR","BE0000369","erdafitinib","DB12147","NCT03155620","Phase 2","Recruiting","erdafitinib",FALSE
+"KDR","BE0000369","erdafitinib","DB12147","NCT03210714","Phase 2","Recruiting","erdafitinib",FALSE
+"KIT","BE0000453","dasatinib","DB01254","NCT00464620","Phase 2","Completed","dasatinib",FALSE
+"KIT","BE0000453","sorafenib","DB00398","NCT01518413","Phase 1","Completed","sorafenib",FALSE
+"KIT","BE0000453","pazopanib","DB06589","NCT01532687","Phase 2","Completed","pazopanib",FALSE
+"KIT","BE0000453","sorafenib","DB00398","NCT01871766","Phase 2","Active not recruiting","sorafenib",FALSE
+"KIT","BE0000453","regorafenib","DB08896","NCT02048371","Phase 2","Recruiting","regorafenib",FALSE
+"KIT","BE0000453","dasatinib","DB01254","NCT03041701","Phase 1/Phase 2","Recruiting","dasatinib",FALSE
+"KIT","BE0000453","erdafitinib","DB12147","NCT03155620","Phase 2","Recruiting","erdafitinib",FALSE
+"KIT","BE0000453","erdafitinib","DB12147","NCT03210714","Phase 2","Recruiting","erdafitinib",FALSE
+"LCK","BE0000842","dasatinib","DB01254","NCT00464620","Phase 2","Completed","dasatinib",FALSE
+"LCK","BE0000842","dasatinib","DB01254","NCT03041701","Phase 1/Phase 2","Recruiting","dasatinib",FALSE
+"MAP2","BE0001100","paclitaxel","DB01229","NCT01505569","N/A","Recruiting","paclitaxel",FALSE
+"MAP2K1","BE0000870","selumetinib","DB11689","NCT03155620","Phase 2","Recruiting","selumetinib",FALSE
+"MAP4","BE0003475","paclitaxel","DB01229","NCT01505569","N/A","Recruiting","paclitaxel",FALSE
+"MAPK11","BE0003390","regorafenib","DB08896","NCT02048371","Phase 2","Recruiting","regorafenib",FALSE
+"MAPK14","BE0001019","dasatinib","DB01254","NCT00464620","Phase 2","Completed","dasatinib",FALSE
+"MAPK14","BE0001019","dasatinib","DB01254","NCT03041701","Phase 1/Phase 2","Recruiting","dasatinib",FALSE
+"MAPT","BE0003474","paclitaxel","DB01229","NCT01505569","N/A","Recruiting","paclitaxel",FALSE
+"MET","BE0000915","crizotinib","DB08865","NCT01524926","Phase 2","Active not recruiting","crizotinib (pf-02341066)",FALSE
+"MET","BE0000915","cabozantinib","DB08875","NCT02867592","Phase 2","Active not recruiting","cabozantinib",FALSE
+"METAP2","BE0001534","methionine","DB00134","NCT00840047","Phase 2","Recruiting","methionine",FALSE
+"MTR","BE0000734","methionine","DB00134","NCT00840047","Phase 2","Recruiting","methionine",FALSE
+"MTRR","BE0000763","methionine","DB00134","NCT00840047","Phase 2","Recruiting","methionine",FALSE
+"NFKB1","BE0001086","thalidomide","DB01041","NCT01661400","Phase 1","Recruiting","thalidomide",FALSE
+"NR1H4","BE0001777","ursodiol","DB01586","NCT01505569","N/A","Recruiting","ursodiol",FALSE
+"NR1I2","BE0000956","ifosfamide","DB01181","NCT00003292","Phase 2","Terminated","ifosfamide",FALSE
+"NR1I2","BE0000956","cyclophosphamide","DB00531","NCT00003958","Phase 3","Completed","cyclophosphamide",FALSE
+"NR1I2","BE0000956","cyclophosphamide","DB00531","NCT00025363","Phase 2","Completed","cyclophosphamide",FALSE
+"NR1I2","BE0000956","ifosfamide","DB01181","NCT00025363","Phase 2","Completed","ifosfamide",FALSE
+"NR1I2","BE0000956","cyclophosphamide","DB00531","NCT00075582","Phase 3","Active not recruiting","cyclophosphamide",FALSE
+"NR1I2","BE0000956","erlotinib","DB00530","NCT00077454","Phase 1","Completed","erlotinib",FALSE
+"NR1I2","BE0000956","ifosfamide","DB01181","NCT00162695","Phase 3","Terminated","ifosfamide, oncovin, actinomycine d, epirubicine, carboplatinum, etoposide",TRUE
+"NR1I2","BE0000956","cyclophosphamide","DB00531","NCT00354835","Phase 3","Unknown status","cyclophosphamide",FALSE
+"NR1I2","BE0000956","cyclophosphamide","DB00531","NCT01055314","Phase 2","Completed","cyclophosphamide",FALSE
+"NR1I2","BE0000956","ifosfamide","DB01181","NCT01055314","Phase 2","Completed","ifosfamide",FALSE
+"NR1I2","BE0000956","cyclophosphamide","DB00531","NCT01222715","Phase 2","Completed","cyclophosphamide",FALSE
+"NR1I2","BE0000956","ifosfamide","DB01181","NCT01505569","N/A","Recruiting","ifosfamide",FALSE
+"NR1I2","BE0000956","paclitaxel","DB01229","NCT01505569","N/A","Recruiting","paclitaxel",FALSE
+"NR1I2","BE0000956","cyclophosphamide","DB00531","NCT01871766","Phase 2","Active not recruiting","cyclophosphamide",FALSE
+"NR1I2","BE0000956","ifosfamide","DB01181","NCT01871766","Phase 2","Active not recruiting","ifosfamide",FALSE
+"NR1I2","BE0000956","ifosfamide","DB01181","NCT02050919","Phase 2","Active not recruiting","ifosfamide",FALSE
+"NR1I2","BE0000956","cyclophosphamide","DB00531","NCT02390843","Phase 1","Completed","cyclophosphamide",FALSE
+"NR1I2","BE0000956","cyclophosphamide","DB00531","NCT02567435","Phase 3","Recruiting","cyclophosphamide",FALSE
+"NR1I2","BE0000956","genistein","DB01645","NCT02624388","Phase 2","Unknown status","genistein",FALSE
+"NR1I2","BE0000956","cyclophosphamide","DB00531","NCT03635632","Phase 1","Recruiting","cyclophosphamide",FALSE
+"NR1I2","BE0000956","cyclophosphamide","DB00531","NCT03709680","Phase 1","Recruiting","cyclophosphamide",FALSE
+"NR1I2","BE0000956","cyclophosphamide","DB00531","NCT04388839","Phase 2","Recruiting","cyclophosphamide",FALSE
+"NR1I2","BE0000956","ifosfamide","DB01181","NCT04625907","Phase 1/Phase 2","Recruiting","ifosfamide",FALSE
+"NR1I2","BE0000956","cyclophosphamide","DB00531","NCT04625907","Phase 1/Phase 2","Recruiting","cyclophosphamide",FALSE
+"NR3C1","BE0000794","methylprednisolone","DB00959","NCT00309907","Phase 2","Completed","methylprednisolone",FALSE
+"NTRK1","BE0001039","regorafenib","DB08896","NCT02048371","Phase 2","Recruiting","regorafenib",FALSE
+"NTRK1","BE0001039","larotrectinib","DB14723","NCT03155620","Phase 2","Recruiting","larotrectinib",FALSE
+"NTRK1","BE0001039","larotrectinib","DB14723","NCT03213704","Phase 2","Recruiting","larotrectinib",FALSE
+"ORM1","BE0004879","thalidomide","DB01041","NCT01661400","Phase 1","Recruiting","thalidomide",FALSE
+"PARP1","BE0001717","olaparib","DB09074","NCT01858168","Phase 1","Recruiting","olaparib",FALSE
+"PARP1","BE0001717","olaparib","DB09074","NCT03155620","Phase 2","Recruiting","olaparib",FALSE
+"PARP1","BE0001717","olaparib","DB09074","NCT03233204","Phase 2","Recruiting","olaparib",FALSE
+"PDGFRA","BE0000852","pazopanib","DB06589","NCT01532687","Phase 2","Completed","pazopanib",FALSE
+"PDGFRA","BE0000852","regorafenib","DB08896","NCT02048371","Phase 2","Recruiting","regorafenib",FALSE
+"PDGFRA","BE0000852","erdafitinib","DB12147","NCT03155620","Phase 2","Recruiting","erdafitinib",FALSE
+"PDGFRA","BE0000852","erdafitinib","DB12147","NCT03210714","Phase 2","Recruiting","erdafitinib",FALSE
+"PDGFRB","BE0000205","dasatinib","DB01254","NCT00464620","Phase 2","Completed","dasatinib",FALSE
+"PDGFRB","BE0000205","sorafenib","DB00398","NCT01518413","Phase 1","Completed","sorafenib",FALSE
+"PDGFRB","BE0000205","pazopanib","DB06589","NCT01532687","Phase 2","Completed","pazopanib",FALSE
+"PDGFRB","BE0000205","sorafenib","DB00398","NCT01871766","Phase 2","Active not recruiting","sorafenib",FALSE
+"PDGFRB","BE0000205","regorafenib","DB08896","NCT02048371","Phase 2","Recruiting","regorafenib",FALSE
+"PDGFRB","BE0000205","dasatinib","DB01254","NCT03041701","Phase 1/Phase 2","Recruiting","dasatinib",FALSE
+"PDGFRB","BE0000205","erdafitinib","DB12147","NCT03155620","Phase 2","Recruiting","erdafitinib",FALSE
+"PDGFRB","BE0000205","erdafitinib","DB12147","NCT03210714","Phase 2","Recruiting","erdafitinib",FALSE
+"POLA1","BE0000546","fludarabine","DB01073","NCT01625351","Phase 1","Completed","fludarabine",FALSE
+"POLA1","BE0000546","fludarabine","DB01073","NCT03635632","Phase 1","Recruiting","fludarabine",FALSE
+"POLA1","BE0000546","fludarabine","DB01073","NCT04530487","Phase 2","Recruiting","fludarabine",FALSE
+"PPAT","BE0000374","dasatinib","DB01254","NCT00464620","Phase 2","Completed","dasatinib",FALSE
+"PPAT","BE0000374","dasatinib","DB01254","NCT03041701","Phase 1/Phase 2","Recruiting","dasatinib",FALSE
+"PPIA","BE0001014","cyclosporine","DB00091","NCT04530487","Phase 2","Recruiting","cyclosporine",FALSE
+"PPIF","BE0001399","cyclosporine","DB00091","NCT04530487","Phase 2","Recruiting","cyclosporine",FALSE
+"PPP3R2","BE0002143","cyclosporine","DB00091","NCT04530487","Phase 2","Recruiting","cyclosporine",FALSE
+"PTGS2","BE0000262","thalidomide","DB01041","NCT01661400","Phase 1","Recruiting","thalidomide",FALSE
+"PTK2B","BE0000871","genistein","DB01645","NCT02624388","Phase 2","Unknown status","genistein",FALSE
+"PYGB","BE0002150","alvocidib","DB03496","NCT00012181","Phase 1","Completed","alvocidib",FALSE
+"PYGM","BE0000916","alvocidib","DB03496","NCT00012181","Phase 1","Completed","alvocidib",FALSE
+"RAF1","BE0000036","sorafenib","DB00398","NCT01518413","Phase 1","Completed","sorafenib",FALSE
+"RAF1","BE0000036","sorafenib","DB00398","NCT01871766","Phase 2","Active not recruiting","sorafenib",FALSE
+"RAF1","BE0000036","regorafenib","DB08896","NCT02048371","Phase 2","Recruiting","regorafenib",FALSE
+"RET","BE0002411","sorafenib","DB00398","NCT01518413","Phase 1","Completed","sorafenib",FALSE
+"RET","BE0002411","sorafenib","DB00398","NCT01871766","Phase 2","Active not recruiting","sorafenib",FALSE
+"RET","BE0002411","regorafenib","DB08896","NCT02048371","Phase 2","Recruiting","regorafenib",FALSE
+"RET","BE0002411","cabozantinib","DB08875","NCT02867592","Phase 2","Active not recruiting","cabozantinib",FALSE
+"RET","BE0001104","erdafitinib","DB12147","NCT03155620","Phase 2","Recruiting","erdafitinib",FALSE
+"RET","BE0002411","selpercatinib","DB15685","NCT03155620","Phase 2","Recruiting","selpercatinib",FALSE
+"RET","BE0001104","erdafitinib","DB12147","NCT03210714","Phase 2","Recruiting","erdafitinib",FALSE
+"RET","BE0002411","selpercatinib","DB15685","NCT04320888","Phase 2","Recruiting","selpercatinib",FALSE
+"RRM1","BE0000325","gemcitabine","DB00441","NCT01532687","Phase 2","Completed","gemcitabine",FALSE
+"RRM1","BE0000325","fludarabine","DB01073","NCT01625351","Phase 1","Completed","fludarabine",FALSE
+"RRM1","BE0000325","gemcitabine","DB00441","NCT02945800","Phase 2","Recruiting","gemcitabine",FALSE
+"RRM1","BE0000325","fludarabine","DB01073","NCT03635632","Phase 1","Recruiting","fludarabine",FALSE
+"RRM1","BE0000325","fludarabine","DB01073","NCT04530487","Phase 2","Recruiting","fludarabine",FALSE
+"SHBG","BE0000685","genistein","DB01645","NCT02624388","Phase 2","Unknown status","genistein",FALSE
+"SRC","BE0000838","dasatinib","DB01254","NCT00464620","Phase 2","Completed","dasatinib",FALSE
+"SRC","BE0000838","dasatinib","DB01254","NCT03041701","Phase 1/Phase 2","Recruiting","dasatinib",FALSE
+"STAT5B","BE0000891","dasatinib","DB01254","NCT00464620","Phase 2","Completed","dasatinib",FALSE
+"STAT5B","BE0000891","dasatinib","DB01254","NCT03041701","Phase 1/Phase 2","Recruiting","dasatinib",FALSE
+"TEK","BE0003379","regorafenib","DB08896","NCT02048371","Phase 2","Recruiting","regorafenib",FALSE
+"TF","BE0000510","cisplatin","DB00515","NCT04213794","Early Phase 1","Recruiting","cisplatin",FALSE
+"TNF","BE0000704","thalidomide","DB01041","NCT01661400","Phase 1","Recruiting","thalidomide",FALSE
+"TOP1","BE0000971","topotecan","DB01030","NCT00001335","Phase 2","Completed","topotecan",FALSE
+"TOP1","BE0000971","topotecan","DB01030","NCT00003958","Phase 3","Completed","topotecan",FALSE
+"TOP1","BE0000971","irinotecan","DB00762","NCT00004078","Phase 2","Completed","irinotecan",FALSE
+"TOP1","BE0000971","irinotecan","DB00762","NCT00025363","Phase 2","Completed","irinotecan",FALSE
+"TOP1","BE0000971","irinotecan","DB00762","NCT00101270","Phase 1","Completed","irinotecan",FALSE
+"TOP1","BE0000971","irinotecan","DB00762","NCT00354835","Phase 3","Unknown status","irinotecan",FALSE
+"TOP1","BE0000971","topotecan","DB01030","NCT00638898","Phase 1","Active not recruiting","topotecan",FALSE
+"TOP1","BE0000971","irinotecan","DB00762","NCT01055314","Phase 2","Completed","irinotecan",FALSE
+"TOP1","BE0000971","irinotecan","DB00762","NCT01355445","Phase 2","Completed","vincristine, irinotecan",TRUE
+"TOP1","BE0000971","irinotecan","DB00762","NCT01355445","Phase 2","Completed","vincristine, irinotecan, temozolomide",TRUE
+"TOP1","BE0000971","irinotecan","DB00762","NCT01518413","Phase 1","Completed","irinotecan",FALSE
+"TOP1","BE0000971","irinotecan","DB00762","NCT01858168","Phase 1","Recruiting","irinotecan",FALSE
+"TOP1","BE0000971","irinotecan","DB00762","NCT01871766","Phase 2","Active not recruiting","irinotecan",FALSE
+"TOP1","BE0000971","irinotecan","DB00762","NCT02095132","Phase 1/Phase 2","Active not recruiting","irinotecan",FALSE
+"TOP1","BE0000971","topotecan","DB01030","NCT02390843","Phase 1","Completed","topotecan",FALSE
+"TOP1","BE0000971","irinotecan","DB00762","NCT02567435","Phase 3","Recruiting","irinotecan",FALSE
+"TOP1","BE0000971","irinotecan","DB00762","NCT03245450","Phase 1/Phase 2","Recruiting","irinotecan",FALSE
+"TOP1","BE0000971","irinotecan","DB00762","NCT03709680","Phase 1","Recruiting","irinotecan",FALSE
+"TOP1","BE0000971","topotecan","DB01030","NCT03709680","Phase 1","Recruiting","topotecan",FALSE
+"TOP1","BE0000971","irinotecan","DB00762","NCT04095221","Phase 1/Phase 2","Recruiting","irinotecan",FALSE
+"TOP1","BE0000971","irinotecan","DB00762","NCT04625907","Phase 1/Phase 2","Recruiting","irinotecan",FALSE
+"TOP1MT","BE0000091","topotecan","DB01030","NCT00001335","Phase 2","Completed","topotecan",FALSE
+"TOP1MT","BE0000091","topotecan","DB01030","NCT00003958","Phase 3","Completed","topotecan",FALSE
+"TOP1MT","BE0000091","irinotecan","DB00762","NCT00004078","Phase 2","Completed","irinotecan",FALSE
+"TOP1MT","BE0000091","irinotecan","DB00762","NCT00025363","Phase 2","Completed","irinotecan",FALSE
+"TOP1MT","BE0000091","irinotecan","DB00762","NCT00101270","Phase 1","Completed","irinotecan",FALSE
+"TOP1MT","BE0000091","irinotecan","DB00762","NCT00354835","Phase 3","Unknown status","irinotecan",FALSE
+"TOP1MT","BE0000091","topotecan","DB01030","NCT00638898","Phase 1","Active not recruiting","topotecan",FALSE
+"TOP1MT","BE0000091","irinotecan","DB00762","NCT01055314","Phase 2","Completed","irinotecan",FALSE
+"TOP1MT","BE0000091","irinotecan","DB00762","NCT01355445","Phase 2","Completed","vincristine, irinotecan",TRUE
+"TOP1MT","BE0000091","irinotecan","DB00762","NCT01355445","Phase 2","Completed","vincristine, irinotecan, temozolomide",TRUE
+"TOP1MT","BE0000091","irinotecan","DB00762","NCT01518413","Phase 1","Completed","irinotecan",FALSE
+"TOP1MT","BE0000091","irinotecan","DB00762","NCT01858168","Phase 1","Recruiting","irinotecan",FALSE
+"TOP1MT","BE0000091","irinotecan","DB00762","NCT01871766","Phase 2","Active not recruiting","irinotecan",FALSE
+"TOP1MT","BE0000091","irinotecan","DB00762","NCT02095132","Phase 1/Phase 2","Active not recruiting","irinotecan",FALSE
+"TOP1MT","BE0000091","topotecan","DB01030","NCT02390843","Phase 1","Completed","topotecan",FALSE
+"TOP1MT","BE0000091","irinotecan","DB00762","NCT02567435","Phase 3","Recruiting","irinotecan",FALSE
+"TOP1MT","BE0000091","irinotecan","DB00762","NCT03245450","Phase 1/Phase 2","Recruiting","irinotecan",FALSE
+"TOP1MT","BE0000091","irinotecan","DB00762","NCT03709680","Phase 1","Recruiting","irinotecan",FALSE
+"TOP1MT","BE0000091","topotecan","DB01030","NCT03709680","Phase 1","Recruiting","topotecan",FALSE
+"TOP1MT","BE0000091","irinotecan","DB00762","NCT04095221","Phase 1/Phase 2","Recruiting","irinotecan",FALSE
+"TOP1MT","BE0000091","irinotecan","DB00762","NCT04625907","Phase 1/Phase 2","Recruiting","irinotecan",FALSE
+"TOP2A","BE0000742","doxorubicin","DB00997","NCT00025363","Phase 2","Completed","doxorubicin",FALSE
+"TOP2A","BE0000742","etoposide","DB00773","NCT00025363","Phase 2","Completed","etoposide",FALSE
+"TOP2A","BE0004951","dactinomycin","DB00970","NCT00075582","Phase 3","Active not recruiting","dactinomycin",FALSE
+"TOP2A","BE0000742","etoposide","DB00773","NCT00162695","Phase 3","Terminated","ifosfamide, oncovin, actinomycine d, epirubicine, carboplatinum, etoposide",TRUE
+"TOP2A","BE0000742","doxorubicin","DB00997","NCT00339118","Phase 4","Unknown status","doxorubicin, cytoxan",TRUE
+"TOP2A","BE0000742","doxorubicin","DB00997","NCT00720174","Phase 1","Completed","doxorubicin",FALSE
+"TOP2A","BE0000742","doxorubicin","DB00997","NCT01055314","Phase 2","Completed","doxorubicin",FALSE
+"TOP2A","BE0000742","etoposide","DB00773","NCT01055314","Phase 2","Completed","etoposide",FALSE
+"TOP2A","BE0000742","etoposide","DB00773","NCT01505569","N/A","Recruiting","etoposide",FALSE
+"TOP2A","BE0004951","dactinomycin","DB00970","NCT01871766","Phase 2","Active not recruiting","dactinomycin",FALSE
+"TOP2A","BE0000742","etoposide","DB00773","NCT01871766","Phase 2","Active not recruiting","etoposide",FALSE
+"TOP2A","BE0000742","doxorubicin","DB00997","NCT01871766","Phase 2","Active not recruiting","doxorubicin",FALSE
+"TOP2A","BE0000742","dexrazoxane","DB00380","NCT01871766","Phase 2","Active not recruiting","dexrazoxane",FALSE
+"TOP2A","BE0000742","epirubicin","DB00445","NCT02050919","Phase 2","Active not recruiting","epirubicin",FALSE
+"TOP2A","BE0000742","doxorubicin","DB00997","NCT02557854","Phase 1","Withdrawn","doxorubicin",FALSE
+"TOP2A","BE0000742","genistein","DB01645","NCT02624388","Phase 2","Unknown status","genistein",FALSE
+"TOP2A","BE0000742","doxorubicin","DB00997","NCT03009201","Phase 1","Active not recruiting","doxorubicin",FALSE
+"TOP2A","BE0000742","doxorubicin","DB00997","NCT03111069","Phase 1","Withdrawn","doxorubicin",FALSE
+"TOP2A","BE0000742","doxorubicin","DB00997","NCT04213794","Early Phase 1","Recruiting","doxorubicin",FALSE
+"TOP2A","BE0004951","actinomycin d","DB00970","NCT04388839","Phase 2","Recruiting","actinomycin d",FALSE
+"TOP2A","BE0000742","etoposide","DB00773","NCT04530487","Phase 2","Recruiting","etoposide",FALSE
+"TOP2A","BE0004951","actinomycin d","DB00970","NCT04625907","Phase 1/Phase 2","Recruiting","actinomycin d",FALSE
+"TOP2A","BE0000742","doxorubicin","DB00997","NCT04625907","Phase 1/Phase 2","Recruiting","doxorubicin",FALSE
+"TOP2B","BE0002425","etoposide","DB00773","NCT00025363","Phase 2","Completed","etoposide",FALSE
+"TOP2B","BE0002425","etoposide","DB00773","NCT00162695","Phase 3","Terminated","ifosfamide, oncovin, actinomycine d, epirubicine, carboplatinum, etoposide",TRUE
+"TOP2B","BE0002425","etoposide","DB00773","NCT01055314","Phase 2","Completed","etoposide",FALSE
+"TOP2B","BE0002425","etoposide","DB00773","NCT01505569","N/A","Recruiting","etoposide",FALSE
+"TOP2B","BE0002425","etoposide","DB00773","NCT01871766","Phase 2","Active not recruiting","etoposide",FALSE
+"TOP2B","BE0002425","dexrazoxane","DB00380","NCT01871766","Phase 2","Active not recruiting","dexrazoxane",FALSE
+"TOP2B","BE0002425","etoposide","DB00773","NCT04530487","Phase 2","Recruiting","etoposide",FALSE
+"TUBA4A","BE0001391","vincristine","DB00541","NCT00003958","Phase 3","Completed","vincristine",FALSE
+"TUBA4A","BE0001391","vincristine","DB00541","NCT00025363","Phase 2","Completed","vincristine",FALSE
+"TUBA4A","BE0001391","vincristine","DB00541","NCT00075582","Phase 3","Active not recruiting","vincristine",FALSE
+"TUBA4A","BE0001391","vincristine","DB00541","NCT00354835","Phase 3","Unknown status","vincristine",FALSE
+"TUBA4A","BE0001391","vincristine","DB00541","NCT01355445","Phase 2","Completed","vincristine, irinotecan",TRUE
+"TUBA4A","BE0001391","vincristine","DB00541","NCT01355445","Phase 2","Completed","vincristine, irinotecan, temozolomide",TRUE
+"TUBA4A","BE0001391","vincristine","DB00541","NCT01871766","Phase 2","Active not recruiting","vincristine",FALSE
+"TUBA4A","BE0001391","vincristine","DB00541","NCT02567435","Phase 3","Recruiting","vincristine",FALSE
+"TUBA4A","BE0001391","vincristine","DB00541","NCT04388839","Phase 2","Recruiting","vincristine",FALSE
+"TUBA4A","BE0001391","vincristine","DB00541","NCT04625907","Phase 1/Phase 2","Recruiting","vincristine",FALSE
+"TUBB","BE0000143","vincristine","DB00541","NCT00003958","Phase 3","Completed","vincristine",FALSE
+"TUBB","BE0000143","vincristine","DB00541","NCT00025363","Phase 2","Completed","vincristine",FALSE
+"TUBB","BE0000143","vincristine","DB00541","NCT00075582","Phase 3","Active not recruiting","vincristine",FALSE
+"TUBB","BE0000143","vinorelbine","DB00361","NCT00180947","Phase 2","Unknown status","vinorelbine, cyclofosfamide",TRUE
+"TUBB","BE0000143","vincristine","DB00541","NCT00354835","Phase 3","Unknown status","vincristine",FALSE
+"TUBB","BE0000143","vincristine","DB00541","NCT01355445","Phase 2","Completed","vincristine, irinotecan",TRUE
+"TUBB","BE0000143","vincristine","DB00541","NCT01355445","Phase 2","Completed","vincristine, irinotecan, temozolomide",TRUE
+"TUBB","BE0000143","vincristine","DB00541","NCT01871766","Phase 2","Active not recruiting","vincristine",FALSE
+"TUBB","BE0000143","vincristine","DB00541","NCT02567435","Phase 3","Recruiting","vincristine",FALSE
+"TUBB","BE0000143","vinorelbine","DB00361","NCT02567435","Phase 3","Recruiting","vinorelbine",FALSE
+"TUBB","BE0000143","vinorelbine","DB00361","NCT04299113","Phase 1","Recruiting","vinorelbine",FALSE
+"TUBB","BE0000143","vincristine","DB00541","NCT04388839","Phase 2","Recruiting","vincristine",FALSE
+"TUBB","BE0000143","vinorelbine","DB00361","NCT04388839","Phase 2","Recruiting","vinorelbine",FALSE
+"TUBB","BE0000143","vincristine","DB00541","NCT04625907","Phase 1/Phase 2","Recruiting","vincristine",FALSE
+"TUBB","BE0000143","vinorelbine","DB00361","NCT04625907","Phase 1/Phase 2","Recruiting","vinorelbine",FALSE
+"TUBB1","BE0000026","paclitaxel","DB01229","NCT01505569","N/A","Recruiting","paclitaxel",FALSE
+"TUBB1","BE0000026","eribulin","DB08871","NCT03245450","Phase 1/Phase 2","Recruiting","eribulin",FALSE
+"TUBB1","BE0000026","eribulin","DB08871","NCT03441360","Phase 2","Recruiting","eribulin",FALSE
+"TUBB3","BE0001415","ixabepilone","DB04845","NCT00331643","Phase 2","Completed","ixabepilone",FALSE
+"TYMS","BE0000324","pemetrexed","DB00642","NCT00520936","Phase 2","Completed","pemetrexed",FALSE
+"TYMS","BE0000324","gemcitabine","DB00441","NCT01532687","Phase 2","Completed","gemcitabine",FALSE
+"TYMS","BE0000324","gemcitabine","DB00441","NCT02945800","Phase 2","Recruiting","gemcitabine",FALSE
+"VEGF","BE0000163","bevacizumab","DB00112","NCT01871766","Phase 2","Active not recruiting","bevacizumab",FALSE
+"WEE1","BE0003335","adavosertib","DB11740","NCT02095132","Phase 1/Phase 2","Active not recruiting","adavosertib",FALSE
+"YES1","BE0000840","dasatinib","DB01254","NCT00464620","Phase 2","Completed","dasatinib",FALSE
+"YES1","BE0000840","dasatinib","DB01254","NCT03041701","Phase 1/Phase 2","Recruiting","dasatinib",FALSE
